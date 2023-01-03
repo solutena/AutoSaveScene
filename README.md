@@ -5,4 +5,4 @@
 # 사용방법
 
 
-`AutoSceneSave.cs`를 `Asset/Editor` 폴더에 넣습니다.
+`AutoSceneSave.cs`를 `Assets/Editor` 폴더에 넣습니다.
